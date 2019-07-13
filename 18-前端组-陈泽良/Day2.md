@@ -182,8 +182,7 @@ int cango(int i,int j)
 		return 0;   
 }   
 ``` 
-这是运行结果:    
-<img src="http://m.qpic.cn/psb?/V10ItkNg43Vz0e/e1VB9nJBpSz0hQQ9P5OXY0jUFQFFiDxfJNV3u4n2Uqs!/b/dFEBAAAAAAAA&bo=FgKWAAAAAAADB6A!&rf=viewer_4&t=5" width="50%">
+<img src="http://m.qpic.cn/psb?/V10ItkNg43Vz0e/e1VB9nJBpSz0hQQ9P5OXY0jUFQFFiDxfJNV3u4n2Uqs!/b/dFEBAAAAAAAA&bo=FgKWAAAAAAADB6A!&rf=viewer_4&t=5" title="这是运行结果" width="50%">
 
 
 
